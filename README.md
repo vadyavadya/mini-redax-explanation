@@ -9,7 +9,8 @@
 
 ## Для развертывания
 1. Клонируем репозиторий  `git clone https://github.com/vadyavadya/mini-redax-explanation.git`
-2. Переходим в папку `npm i`
+2. Переходим в папку `cd mini-redax-explanation`
+2. Устанавливаем пакеты `npm i`
 3. Запускаем `npm start`
 
 ## Дополнительная информация
