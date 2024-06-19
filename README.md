@@ -1,11 +1,11 @@
 # Обьяснение
 
 Основные файлы:
-- ***index.tsx*** входной,
-- ***App.tsx*** разметка страницы,
-- ***store.ts*** содержит стор
-- ***contentSlicer.ts*** слайсер для контента
-- ***Header.tsx, Content.tsx*** используют стор
+- **[index.tsx](https://github.com/vadyavadya/mini-redax-explanation/blob/main/src/index.tsx)** входной,
+- **[App.tsx](https://github.com/vadyavadya/mini-redax-explanation/blob/main/src/App.tsx)** разметка страницы,
+- **[store.ts](https://github.com/vadyavadya/mini-redax-explanation/blob/main/src/app/store.ts)** содержит стор
+- **[contentSlicer.ts](https://github.com/vadyavadya/mini-redax-explanation/blob/main/src/components/content/contentSlice.ts)** слайсер для контента
+- **[Header.tsx](https://github.com/vadyavadya/mini-redax-explanation/blob/main/src/components/header/Header.tsx), [Content.tsx](https://github.com/vadyavadya/mini-redax-explanation/blob/main/src/components/content/Content..tsx)** используют стор
 
 ## Для развертывания
 1. Клонируем репозиторий  `git clone https://github.com/vadyavadya/mini-redax-explanation.git`
